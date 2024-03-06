@@ -1,1 +1,1 @@
-# LACS (Scala Subset) Compiler
+# LACS Compiler (Scala Subset)
