@@ -4,6 +4,7 @@ Scala is a widely known object-oriented programming language. This compiler is m
 
 ### Key Implementations
 - Used MIPS programming to program different types of abstract code
+  - basic mathematical operations
   - if statements
   - while loops
   - variable definitions
@@ -20,7 +21,7 @@ All components of the compiler have already been compiled in the project. No fur
 
 ### Execution
 `
-A10.tests
+A10.tests \\
 A11.tests
 `
 
