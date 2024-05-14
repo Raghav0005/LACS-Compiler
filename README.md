@@ -21,7 +21,7 @@ All components of the compiler have already been compiled in the project. No fur
 
 ### Execution
 `
-A10.tests \\
+A10.tests <br>
 A11.tests
 `
 
